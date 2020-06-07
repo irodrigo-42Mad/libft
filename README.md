@@ -6,6 +6,8 @@ This is a re-encoding general use C functions for 42 cursus projects
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+	git clone https://github.com/irodrigo-42Mad/libft.git
+
 ### Prerequisites
 
 For the correct compilation and use of these functions we must have installed in the system the GNU GCC compiler as well as the make tool to be able to mount the library.
